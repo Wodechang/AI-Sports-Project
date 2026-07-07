@@ -2,6 +2,7 @@
 COSMOS project
 
 Overall Dataset Specifications: 
+100 Different Sports 
 
 Test Dataset Specifications: 
 13994 Examples 
